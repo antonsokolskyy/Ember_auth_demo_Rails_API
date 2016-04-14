@@ -10,13 +10,9 @@
 ###### bundle install  
 ###### rake db:create  
 ###### rake db:migrate  
+###### set ENV variables for action mailer (in order to use Devise confirmable)  
 
 
 ###Running  
 
 ###### rails server  
-
-
-###To Do  
-
-###### set ENV variables for action mailer (in order to use Devise confirmable)
