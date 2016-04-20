@@ -1,8 +1,7 @@
 ###Prerequisites:  
 
 ###### Ruby 2.2.3 or later  
-###### Rails 4.2 or later  
-###### SQLite3  
+###### Rails 4.2 or later    
 
 
 ###Installation  
